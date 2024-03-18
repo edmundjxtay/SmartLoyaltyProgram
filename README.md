@@ -17,3 +17,7 @@ The project seeks to solve several key problems inherent in traditional loyalty 
 5. Cost and Complexity: Implementing and managing traditional loyalty programs can be costly and complex for businesses, requiring investment in infrastructure, marketing, and administration. The Smart Loyalty Program reduces overhead costs by automating reward issuance, redemption, and reporting processes through smart contracts, thereby streamlining program management and improving operational efficiency.
 
 Overall, the Smart Loyalty Program represents a paradigm shift in the loyalty industry, offering businesses a cost-effective and scalable solution to engage and retain customers, while providing consumers with a seamless and rewarding experience. By harnessing the power of blockchain technology and smart contracts, the project aims to transform loyalty programs into a valuable and sustainable tool for driving customer loyalty, increasing sales, and fostering long-term relationships between businesses and their customers.
+
+# Credits
+
+Code from Bells Institute of Higher Learning
