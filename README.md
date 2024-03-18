@@ -1,4 +1,4 @@
-#Smart Loyalty Program
+# Smart Loyalty Program
 
 The Smart Loyalty Program project aims to revolutionize traditional loyalty programs by leveraging blockchain technology and smart contracts to create a more efficient, transparent, and rewarding experience for both businesses and customers. In today's competitive market landscape, businesses struggle to differentiate themselves and retain customers, while consumers are inundated with an overwhelming array of loyalty programs that offer limited flexibility and value.
 
