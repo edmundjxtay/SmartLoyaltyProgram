@@ -20,4 +20,4 @@ Overall, the Smart Loyalty Program represents a paradigm shift in the loyalty in
 
 # Credits
 
-Code from Bells Institute of Higher Learning
+Code reference from Bells Institute of Higher Learning
